@@ -1,0 +1,49 @@
+* {
+    margin: 0; padding: 0; border: 0;
+}
+body {
+    background-image: url(/images/fundo\ 33333.jpg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+}
+.menu {
+    background-color: #f4d211;
+}
+.textos {
+    background-color: #f4d211;
+}
+.menus {
+    color: aliceblue;
+}
+.fundo {
+    
+    text-align: center;
+    color: #fff;
+}
+#nossos-produtos {
+    color: black;
+    background-color: fff;
+    padding: 7px;
+}
+#pedido {
+    color: black;
+    background-color: #e95f81;
+    padding: 7px;
+    margin-top: 15px;
+}
+#produtos {
+    color: #f4d211;
+    background-color: #2f1605;
+    padding: 7px;
+}
+#texto-um {
+    margin-top: 50px;
+    margin: 7px;
+}
+#texto-dois {
+    padding: 7px;
+}
+#texto3-tres {
+    margin: 7px;
+}
